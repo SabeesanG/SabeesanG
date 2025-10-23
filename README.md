@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on UltraKerb<br>👯 I’m looking to collaborate on AI Projects<br>🤝 I’m looking for help with Fullstack deelopments based on React,Django<br>🌱 I’m currently learning at SLIIT Northern UNI<br>💬 Ask me about Technical Developments<br>⚡ I am interested on Cyber security too
+🔭 I’m currently working on UltraKerb<br>👯 I’m looking to collaborate on AI Projects<br>🤝 I’m looking for help with Fullstack developments based on React,Django<br>🌱 I’m currently learning at SLIIT Northern UNI<br>💬 Ask me about Technical Developments<br>⚡ I am interested on Cyber security too
 
 
 ## 🌐 Socials:
